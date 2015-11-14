@@ -1,0 +1,64 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  color: black;
+  background: white;
+  margin: 0 auto;
+  max-width: 1070px;
+}
+ a {
+  color: red;
+}
+img {
+  border-radius: 100px;
+  padding: 2px;
+  margin-top: 10px;
+  width: 150px;
+  height: 150px;
+  border: dashed black 2px;
+}
+.projects {
+	font-size: 19px;
+	padding: 5px;
+}
+header {
+	margin: 10px 10px 10px 10px;
+	padding: 10px;
+	border: dashed black 2px;
+	font-size: 28px;
+}
+.bio {
+	margin: 0px 5px 0px 5px;
+	font-size: 19px;
+}
+.rightColumn, .leftColumn {
+	padding: 10px;
+}
+.projects-intro {
+	border: dashed black 2px;
+	padding: 10px;
+	margin: 15px 0 0 0;
+	font-size: 21px;
+}
+.contact {
+	border: dashed black 2px;
+	padding: 10px;
+	font-size: 21px;
+}
+.pics {
+	text-align: center;
+}
+@media only screen and (min-width: 500px) {
+	.rightColumn, .leftColumn {
+		float: left;
+		width: 45%;
+	}
+	header {
+		font-size: 31px;
+	}
+	.bio, .contact, .projects-intro {
+		font-size: 25px;
+	}
+	.projects {
+		font-size: 20px;
+	}
+}
