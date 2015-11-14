@@ -53,12 +53,15 @@ header {
 		width: 45%;
 	}
 	header {
-		font-size: 31px;
+		font-size: 30px;
 	}
-	.bio, .contact, .projects-intro {
-		font-size: 25px;
+	.bio {
+		font-size: 24px;
+	}
+	.contact, .projects-intro {
+		font-size: 21px;
 	}
 	.projects {
-		font-size: 20px;
+		font-size: 17px;
 	}
 }
