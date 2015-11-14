@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/mbds
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://mbd-s.com
+  * I am mbds (https://keybase.io/mbds) on keybase.
+  * I have a public key ASDGO235c5FZ_NRxopFtwoTPuGc79szNBaIkLpKX4q6QZgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120c63b6df9739159fcd471a2916dc284cfb8673bf6cccd05a2242e9297e2ae90660a",
+            "host": "keybase.io",
+            "kid": "0120c63b6df9739159fcd471a2916dc284cfb8673bf6cccd05a2242e9297e2ae90660a",
+            "uid": "97b3a998bab7632ca8d0fd09d6af4119",
+            "username": "mbds"
+        },
+        "service": {
+            "hostname": "mbd-s.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.16"
+    },
+    "ctime": 1471622902,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1471622885,
+        "hash": "6b337f733e2b07aea898cd56277e14c3f0b912cf6da218d200489f17b6f7da6f124c568c6344fdbb8bd78ebfc8f344ce57354c158e4cdc1ae708e7717e0bfa7a",
+        "seqno": 590334
+    },
+    "prev": "42db8cf5b7e45087beb74820d27d7834fedf5842ffeabe56055952d8d2e5be94",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgxjtt+XORWfzUcaKRbcKEz7hnO/bMzQWiJC6Sl+KukGYKp3BheWxvYWTFAux7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYzYzYjZkZjk3MzkxNTlmY2Q0NzFhMjkxNmRjMjg0Y2ZiODY3M2JmNmNjY2QwNWEyMjQyZTkyOTdlMmFlOTA2NjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYzYzYjZkZjk3MzkxNTlmY2Q0NzFhMjkxNmRjMjg0Y2ZiODY3M2JmNmNjY2QwNWEyMjQyZTkyOTdlMmFlOTA2NjBhIiwidWlkIjoiOTdiM2E5OThiYWI3NjMyY2E4ZDBmZDA5ZDZhZjQxMTkiLCJ1c2VybmFtZSI6Im1iZHMifSwic2VydmljZSI6eyJob3N0bmFtZSI6Im1iZC1zLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTYifSwiY3RpbWUiOjE0NzE2MjI5MDIsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ3MTYyMjg4NSwiaGFzaCI6IjZiMzM3ZjczM2UyYjA3YWVhODk4Y2Q1NjI3N2UxNGMzZjBiOTEyY2Y2ZGEyMThkMjAwNDg5ZjE3YjZmN2RhNmYxMjRjNTY4YzYzNDRmZGJiOGJkNzhlYmZjOGYzNDRjZTU3MzU0YzE1OGU0Y2RjMWFlNzA4ZTc3MTdlMGJmYTdhIiwic2Vxbm8iOjU5MDMzNH0sInByZXYiOiI0MmRiOGNmNWI3ZTQ1MDg3YmViNzQ4MjBkMjdkNzgzNGZlZGY1ODQyZmZlYWJlNTYwNTU5NTJkOGQyZTViZTk0Iiwic2Vxbm8iOjksInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAVPN8UCQypsz7n3sq8r7renrj83cmWVTpD5df3sNTwBY8s+zNGcQBlhLY8eIxwQJNwSMcaXHgZBITZP7JPkZLCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEcBJb1XokmHp8wuTh5nOpNmwdS8Q6wtA22oene2mjoAo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mbds
+
+==================================================================
