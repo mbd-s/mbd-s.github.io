@@ -6,7 +6,7 @@ body {
   max-width: 1070px;
 }
  a {
-  color: red;
+color: red;
 }
 img {
   border-radius: 100px;
@@ -16,15 +16,15 @@ img {
   height: 150px;
   border: dashed black 2px;
 }
-.projects {
-	font-size: 19px;
-	padding: 5px;
-}
 header {
 	margin: 10px 10px 10px 10px;
 	padding: 10px;
 	border: dashed black 2px;
 	font-size: 28px;
+}
+.projects {
+	font-size: 19px;
+	padding: 5px;
 }
 .bio {
 	margin: 0px 5px 0px 5px;
