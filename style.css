@@ -6,7 +6,7 @@ body {
   max-width: 1070px;
 }
  a {
-color: #3ff03f;
+color: white;
 }
 img {
   border-radius: 100px;
@@ -28,7 +28,7 @@ header {
 }
 .bio {
 	margin: 0px 5px 0px 5px;
-	font-size: 19px;
+	font-size: 21px;
 }
 .rightColumn, .leftColumn {
 	padding: 10px;
