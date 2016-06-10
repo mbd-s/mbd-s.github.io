@@ -1,12 +1,12 @@
 body {
-  font-family: Futura, Helvetica, Arial, sans-serif;
-  color: black;
-  background-color: #e0e0e0;
+  font-family: Zurich, sans-serif;
+  color: white;
+  background-color: black;
   margin: 0 auto;
   max-width: 1070px;
 }
  a {
-color: red;
+color: #3ff03f;
 }
 img {
   border-radius: 100px;
@@ -14,16 +14,16 @@ img {
   margin-top: 10px;
   width: 150px;
   height: 150px;
-  border: dashed black 2px;
+  border: dashed white 2px;
 }
 header {
 	margin: 10px 10px 10px 10px;
 	padding: 10px;
-	border: dashed black 2px;
+	border: dashed white 2px;
 	font-size: 28px;
 }
 .projects {
-	font-size: 19px;
+	font-size: 21px;
 	padding: 5px;
 }
 .bio {
@@ -34,14 +34,14 @@ header {
 	padding: 10px;
 }
 .projects-intro {
-	border: dashed black 2px;
+	border: dashed white 2px;
 	padding: 10px;
 	margin: 15px 0 0 0;
 	font-size: 21px;
   text-align: center;
 }
 .contact {
-	border: dashed black 2px;
+	border: dashed white 2px;
 	padding: 10px;
 	font-size: 21px;
   text-align: center;
@@ -64,6 +64,6 @@ header {
 		font-size: 21px;
 	}
 	.projects {
-		font-size: 19px;
+		font-size: 21px;
 	}
 }
