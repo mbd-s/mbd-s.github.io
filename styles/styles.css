@@ -1,15 +1,16 @@
-html, body {
+html,
+body {
   font-family: Helvetica, Arial, sans-serif;
   color: #333399;
   height: 100%;
   padding: 0;
   margin: 0;
   cursor: pointer;
-  background-color: #acacac;
+  background-color: #e0e0e0;
 }
 
 a {
-color: #333399;
+  color: #333399;
 }
 
 a:hover {
@@ -19,7 +20,30 @@ a:hover {
 .text {
   max-width: 530px;
   margin: 0 30px;
-  font-size: 26px;
+  font-size: 24px;
   padding: 15px;
   line-height: 135%;
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 2px dotted #333399;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 220px;
+  line-height: 110%;
+  background-color: #f0f0f0;
+  color: red;
+  font-size: 15px;
+  padding: 10px 8px;
+  border-radius: 6px;
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
 }
