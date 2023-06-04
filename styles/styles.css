@@ -1,44 +1,41 @@
 html,
 body {
   font-family: Helvetica, Arial, sans-serif;
-  color: #333399;
-  height: 100%;
+  color: #44475a;
   padding: 0;
   margin: 0;
   cursor: pointer;
-  background-color: #e0e0e0;
+  background-color: #b4b7c342;
 }
 
-a {
-  color: #333399;
-}
-
-a:hover {
-  color: #ff0033;
+.container-fluid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
 }
 
 .text {
   max-width: 530px;
   margin: 0 30px;
   font-size: 24px;
-  padding: 15px;
   line-height: 135%;
 }
 
 .tooltip {
   position: relative;
   display: inline-block;
-  border-bottom: 2px dotted #333399;
+  border-bottom: 2px dotted #bd93f9;
 }
 
 .tooltip .tooltiptext {
   visibility: hidden;
   width: 220px;
   line-height: 110%;
-  background-color: #f0f0f0;
-  color: red;
-  font-size: 15px;
-  padding: 10px 8px;
+  background-color: rgba(189, 147, 249, 0.9);
+  color: #f8f8f2;
+  font-size: 18px;
+  padding: 12px 20px;
   border-radius: 6px;
   position: absolute;
   z-index: 1;
@@ -46,4 +43,39 @@ a:hover {
 
 .tooltip:hover .tooltiptext {
   visibility: visible;
+}
+
+.tooltip .tooltiptext a {
+  color: #44475a;
+}
+
+.tooltip .tooltiptext a:hover {
+  color: #50fa7b;
+}
+
+.text-footer {
+  margin-top: 20px;
+}
+
+.text-footer a {
+  margin-right: 10px;
+  color: #bd93f9;
+  text-decoration: none;
+}
+
+.text-footer a:hover {
+  color: #ff79c6;
+}
+
+.text-paragraph a {
+  color: #bd93f9;
+  text-decoration: none;
+}
+
+.text-paragraph a:hover {
+  color: #ff79c6;
+}
+
+.header-text {
+  color: #bd93f9;
 }
